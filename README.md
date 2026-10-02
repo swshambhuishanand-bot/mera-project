@@ -1,5 +1,3 @@
-# mera-project
-mera-project
 # Mera Pehla Project
 
 Namaste! Main GitHub aur Markdown seekh raha/rahi hoon.
